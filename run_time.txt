@@ -1,0 +1,50 @@
+U F' R2 F R2 U2 R' F2 U / 11 / U R U2 R F R' F' R2 U F' R / 0.28125
+F2 R' U' F' R' U F2 R' F' / 11 / U R F2 U F2 U F R2 F' R F2 / 0.171875
+F U2 R U2 R' U F2 U F' / 11 / U F U R' U R' U' F' R F2 R / 0.21875
+F2 R' U F2 R' F2 R' U' R' U2 / 11 / U R U' F' R' F R2 U2 F' R' F2 / 0.1875
+U F R' U2 F R U R' F2 / 11 / U R U R F' U2 R2 U' R' F R' / 0.1875
+U R F U' R F2 U' R' F2 / 11 / U R F U2 R' F' U R' U R F2 / 0.1875
+F U2 R F R' F2 U' R U2 / 11 / U R U R2 F R' F U' F' U' R / 0.234375
+U' R' F R U' R F2 U' R' / 11 / U R U R' U2 R U R' U2 F2 R' / 0.25
+R U R' F2 U2 R U F U2 / 11 / U R' U' F' R' F U' F2 R U' R' / 0.265625
+F U' R' U R' F' R2 F' U' / 11 / U R U2 F2 R' F2 R' U2 R U2 R' / 0.28125
+R' F' R' F' R U2 F R2 U' / 11 / U R' U' R U2 R2 U2 R' F R2 F' / 0.265625
+R2 U2 R' F U R F R2 U / 11 / U R U2 F U2 R U2 R U2 R2 F' / 0.1875
+R U R U F' R F2 U' F U' / 11 / U R2 U' R' F U2 R' F2 R U F2 / 0.203125
+F2 R F2 R' F2 R F2 U2 R2 U' / 11 / U R U F2 R' F R2 F' R' F2 U' / 0.1875
+F' U' F2 R U' R U' F R / 11 / U R2 U' R2 F U F2 R2 F' U2 F / 0.234375
+U F R2 U' F2 U' R F U / 11 / U R U F' R' U2 F U R2 F' U' / 0.203125
+R' F2 U' R2 U F' U2 F R / 11 / U R U' F' R U F' U F' U' R2 / 0.1875
+R F U2 F U2 R' F2 U' F' / 11 / U R U R2 U2 F' R F2 U' F U' / 0.171875
+R F U' F2 R2 F' U2 F2 R2 U' / 10 / U R' F' U2 F' R2 U R U2 F' / 0.28125
+R2 U' R' F2 R' F' U' R U / 11 / U R U R' F U R' U2 F2 U' F / 0.203125
+F' R U R' U2 R F' U F' R2 / 11 / U R F' R F2 R' U2 F R' U' R2 / 0.1875
+R' U2 R F2 U2 R' U2 R' U' / 9 / U R U2 R U2 F2 R' U2 R / 0.234375
+U2 F' R2 U R' U F2 R' U' / 11 / U R U2 R U2 F R' F' U F2 R' / 0.234375
+R2 F' U F2 U' F U2 R' U' / 10 / U R U' F U' F2 U F' U' R2 / 0.1875
+R U' R F' U2 R' F U' F R' / 11 / U R F R' U R2 F2 U' F U' R / 0.203125
+R U' F2 U2 R F2 U' R' U2 / 11 / U R F R U' R2 F' R2 F' U R' / 0.21875
+R' U R U2 F2 U' F R' U / 11 / U R U' R F' R F' U' R2 U2 F' / 0.203125
+F2 R F R' U2 F U F' R' / 11 / U R U' F' U R' U2 R U2 F' R / 0.21875
+F2 R F U2 F U R U2 R2 / 11 / U R' U' R F R' U' R2 F R2 F' / 0.171875
+F' U F2 R2 U R F2 R' U' R2 / 11 / U R U F R2 U' F R' U R' U' / 0.1875
+R U R2 U' F R F U2 R2 / 11 / U R' U' R' F' U2 F U' R' U2 F2 / 0.171875
+R F' R' U2 R2 U' R' F2 U' / 11 / U R F' R2 F' U' F U' F' R U' / 0.234375
+F R2 U' F2 U R2 F' R U / 11 / U R U' R U' F2 R2 F' U2 F R / 0.1875
+F2 R2 F' U2 R2 U' F R U' / 10 / U R U F R' F R2 U' F2 U2 / 0.171875
+U2 F2 U R2 U' F2 R' F2 U' / 11 / U R' U' F U2 R U F2 U F' U2 / 0.234375
+R U' F R' F2 U2 R' F R' U' / 11 / U R F U2 F2 R' U2 R F' U R' / 0.25
+F' U' R U' F2 U' F2 R2 U' F / 11 / U R' U' F U' F2 R U' F' U' F2 / 0.25
+U F' R U' R F2 U2 F' R U' / 11 / U R U R' F2 U' R' U2 R' U F2 / 0.21875
+R' F' R' U2 R' U R2 F' R' U' / 10 / U R F R2 U' R U2 R F R / 0.28125
+R' U R' F' U F2 U F2 R' / 11 / U R' F2 R' F' U2 R' U2 R' U F2 / 0.25
+R2 U2 F2 U R' F U2 F U2 / 11 / U F R F' R' U R2 F' U R' U / 0.234375
+R F2 R F U R2 F' U' R' U' / 11 / U R U F U' F' R' F' U2 F' R' / 0.21875
+U' R F U2 F' U R' F U' / 11 / U R U R U R2 F U' F2 R U2 / 0.21875
+R' F2 R2 F' R' U2 R' F2 R' / 11 / U R' U' F2 R2 U F' R2 U R F2 / 0.296875
+U R' U' F2 U' R U F2 R' / 11 / U R F U' F2 U' R U' R' F U2 / 0.21875
+F U F R U' R2 U R' F / 11 / U R U F U' F2 R2 U' F' R' F2 / 0.21875
+U2 R' U F U F' R2 U R U' / 11 / U R F2 R2 U R' F R U' R2 F' / 0.203125
+F U2 F U' R' F U' R F2 U' / 11 / U R F2 R' F U F' R F' U2 F2 / 0.1875
+U2 R' U R' U R' U F' U' / 11 / U R F2 R U' F U' F2 U2 R U' / 0.28125
+U' R' F R2 F' R U' R2 U / 10 / U R U F' U2 F U' R U2 R2 / 0.234375
